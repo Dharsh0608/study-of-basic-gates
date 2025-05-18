@@ -75,9 +75,10 @@ assign c7 = ~(a ^ b);
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by:Dharshana A S RegisterNumber:212224220022
  
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/user-attachments/assets/f52e3f80-eaf0-404c-811a-1de24fa23948)
 
 
