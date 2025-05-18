@@ -63,6 +63,7 @@ Y= A⊕B
 
 
 **PROGRAM**
+
 ![image](https://github.com/user-attachments/assets/1102e3f4-1f22-41c4-ab21-2e4a4b6329fe)
 
 
